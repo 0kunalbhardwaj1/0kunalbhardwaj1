@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0kunalbhardwaj1
+- 🌱 I’m currently learning C language
+- 📫 How to reach me 0kunalbhardwaj1@gmail.com
+- I am new here, so please help me understand the basics
